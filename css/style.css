@@ -86,14 +86,6 @@ body {
     padding-left: 30px;
 }
 
-.wbsite-sprache>div:nth-child(1) {
-    background-color: rgb(238, 238, 238);
-}
-
-.wbsite-sprache>div:nth-child(1)>a {
-    color: black;
-}
-
 .wbsite-sprache>div>a {
     text-decoration: none;
     color: rgb(255, 255, 255);
