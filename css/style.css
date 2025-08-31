@@ -30,7 +30,7 @@ body {
     position: fixed;
     width: 100%;
     z-index: 1000;
-    background-color: rgb(100, 60, 161);
+    background-color: #643ca1;
     padding: 20px 30px;
     margin-bottom: 200px;
 }
@@ -111,7 +111,7 @@ body {
 
 /* Banner */
 .main-banner {
-    background-color: rgb(100, 60, 161);
+    background-color: #643ca1;
     padding: 50px 30px;
     color: white;
     margin-bottom: 100px;
@@ -136,7 +136,7 @@ body {
 .banner-titel p {
     width: 750px;
     line-height: 1.5;
-    border-left: 5px solid rgb(60, 254, 46);
+    border-left: 5px solid #3cfe2e;
     padding-left: 15px;
 
 }
@@ -289,7 +289,7 @@ hr {
     border: none;
     margin-top: 20px;
     cursor: pointer;
-    background-color: rgb(60, 254, 46);
+    background-color: #643ca1;
     border-radius: 100px;
     padding: 10px 15px;
     font-weight: bold;
@@ -542,16 +542,17 @@ form>button {
     margin-bottom: 50px
 }
 
-.seralin {
+.endoweb {
     text-align: center;
     margin: 0 auto;
 
 }
 
-.seralin>p {
+.endorweb>p {
     font-size: 19vw;
     white-space: nowrap;
-    color: rgba(196, 196, 196, 0.306);
+    color: rgba(196, 196, 196, 0.397);
+    text-align: center;
 }
 
 .copyright {
